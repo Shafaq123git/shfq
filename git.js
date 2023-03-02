@@ -1,1 +1,1 @@
-console.log("sum-multiply")
+console.log("multiply-divide")
